@@ -1,2 +1,2 @@
-# Google-trend-forecast
-Forecasting the trends in searches of a keyword in various google platforms
+## Deploying your Streamlit Application
+> A guide on creating and deploying your streamlit app to Heroku 
